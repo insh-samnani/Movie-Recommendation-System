@@ -1,0 +1,10 @@
+﻿  projectLast.cpp
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(142,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(146,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(412,22): warning C4101: 'i': unreferenced local variable
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(962,1): warning C4102: 'cont': unreferenced label
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(1057,7): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(1058,7): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(190): warning C4715: 'MaxHeap::extractMax': not all control paths return a value
+C:\Users\Latitude E7440\source\repos\projectLast\projectLast\projectLast.cpp(205): warning C4715: 'MaxHeap::getMax': not all control paths return a value
+  projectLast.vcxproj -> C:\Users\Latitude E7440\source\repos\projectLast\x64\Debug\projectLast.exe

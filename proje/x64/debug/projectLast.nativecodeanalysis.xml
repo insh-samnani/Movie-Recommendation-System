@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Latitude E7440\source\repos\projectLast\projectLast\</FILEPATH>
+      <FILENAME>projectLast.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DoublyLinkedList::size' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DoublyLinkedList::{ctor}</FUNCTION>
+    <DECORATED>??0DoublyLinkedList@@QEAA@XZ</DECORATED>
+    <FUNCLINE>57</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DoublyLinkedList::size</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Latitude E7440\source\repos\projectLast\projectLast\</FILEPATH>
+      <FILENAME>projectLast.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DoublyLinkedList::sorted' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DoublyLinkedList::{ctor}</FUNCTION>
+    <DECORATED>??0DoublyLinkedList@@QEAA@XZ</DECORATED>
+    <FUNCLINE>57</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DoublyLinkedList::sorted</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Latitude E7440\source\repos\projectLast\projectLast\</FILEPATH>
+      <FILENAME>projectLast.cpp</FILENAME>
+      <LINE>208</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tree::movies' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tree::{ctor}</FUNCTION>
+    <DECORATED>??0Tree@@QEAA@XZ</DECORATED>
+    <FUNCLINE>208</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tree::movies</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
